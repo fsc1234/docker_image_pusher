@@ -17,3 +17,4 @@ kubernetesui/metrics-scraper:v1.0.8
 gcr.io/cadvisor/cadvisor:v0.47.0
 registry.k8s.io/metrics-server/metrics-server:v0.6.3
 php:8-apache
+prometheus:v2.53.0
