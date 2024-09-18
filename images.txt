@@ -1,1 +1,2 @@
-httpd:8.0
+nginx:1.24
+nginx:1.26
